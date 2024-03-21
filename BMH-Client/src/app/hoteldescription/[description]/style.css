@@ -1,0 +1,9 @@
+.people li {
+    display: inline;
+    white-space: nowrap
+}
+
+.people li img {
+    width: 60px;
+    margin: 3px;
+}
